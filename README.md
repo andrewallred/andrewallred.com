@@ -1,6 +1,8 @@
 # andrewallred.com
 
-All about me! http://www.andrewallred.com
+All about me!
+
+http://www.andrewallred.com
 
 ## Built with
 
