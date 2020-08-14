@@ -2,12 +2,34 @@
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
+    width: 90%;
 }
 .center-text {
     text-align: center;
+    font-size:4vw;
+}
+.title-text {
+    font-size:5vw;
 }
 a:link{color:inherit}
 a:active{color:inherit}
 a:visited{color:inherit}
 a:hover{color:inherit}
+
+/* For width 1200px and larger: */
+@media only screen and (min-width: 1200px) {
+    .center-img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+        max-height:700px;
+    }
+    .center-text {
+        text-align: center;
+        font-size:1vw;
+    }
+    .title-text {
+        font-size:2vw;
+    }
+}
