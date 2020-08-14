@@ -1,6 +1,6 @@
 # andrewallred.com
 
-All about me!
+All about me
 
 http://www.andrewallred.com
 
