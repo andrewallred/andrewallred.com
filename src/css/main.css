@@ -40,7 +40,7 @@ a:hover{color:inherit}
     }
 }
 
-/* for width 992px and larger: */
+/* for width 1200px and larger: */
 @media only screen and (min-width: 1200px) {
     .center-text {
         text-align: center;
