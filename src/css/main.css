@@ -2,34 +2,48 @@
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 90%;
+    max-width: 90%;
+    max-height: 70%;
 }
 .center-text {
     text-align: center;
-    font-size:4vw;
-}
-.title-text {
-    font-size:5vw;
+    font-size:3vw;
 }
 a:link{color:inherit}
 a:active{color:inherit}
 a:visited{color:inherit}
 a:hover{color:inherit}
 
-/* For width 1200px and larger: */
-@media only screen and (min-width: 1200px) {
-    .center-img {
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-        width: 50%;
-        max-height:700px;
+/* min: 576px min: 768px min: 992px min: 1200px */
+
+/* for width 576px and larger: */
+@media only screen and (min-width: 576px) {
+    .center-text {
+        text-align: center;
+        font-size:3vw;
     }
+}
+
+/* for width 768px and larger: */
+@media only screen and (min-width: 768px) {
+    .center-text {
+        text-align: center;
+        font-size:2vw;
+    }
+}
+
+/* for width 992px and larger: */
+@media only screen and (min-width: 992px) {
+    .center-text {
+        text-align: center;
+        font-size:1.5vw;
+    }
+}
+
+/* for width 992px and larger: */
+@media only screen and (min-width: 1200px) {
     .center-text {
         text-align: center;
         font-size:1vw;
-    }
-    .title-text {
-        font-size:2vw;
     }
 }
