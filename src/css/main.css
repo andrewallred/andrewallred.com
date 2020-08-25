@@ -44,6 +44,6 @@ a:hover{color:inherit}
 @media only screen and (min-width: 1200px) {
     .center-text {
         text-align: center;
-        font-size:1vw;
+        font-size:1.1vw;
     }
 }
