@@ -14,6 +14,11 @@ a:active{color:inherit}
 a:visited{color:inherit}
 a:hover{color:inherit}
 
+.main {
+    height: 100%;
+    width:100%;
+}
+
 /* min: 576px min: 768px min: 992px min: 1200px */
 
 /* for width 576px and larger: */
