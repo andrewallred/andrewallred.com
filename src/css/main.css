@@ -24,7 +24,6 @@ a:hover{color:inherit}
 /* for width 576px and larger: */
 @media only screen and (min-width: 576px) {
     .center-text {
-        text-align: center;
         font-size:3vw;
     }
 }
@@ -32,7 +31,6 @@ a:hover{color:inherit}
 /* for width 768px and larger: */
 @media only screen and (min-width: 768px) {
     .center-text {
-        text-align: center;
         font-size:2vw;
     }
 }
@@ -40,7 +38,6 @@ a:hover{color:inherit}
 /* for width 992px and larger: */
 @media only screen and (min-width: 992px) {
     .center-text {
-        text-align: center;
         font-size:1.5vw;
     }
 }
@@ -48,7 +45,6 @@ a:hover{color:inherit}
 /* for width 1200px and larger: */
 @media only screen and (min-width: 1200px) {
     .center-text {
-        text-align: center;
         font-size:1.1vw;
     }
 }
