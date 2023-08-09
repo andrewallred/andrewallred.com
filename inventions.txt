@@ -1,0 +1,41 @@
+Andrew Allred – Prior Inventions
+
+JobHunters.io
+JobHunters.io is an integration service to help job hunters leverage AI in their job search.
+
+Allez
+Node tool to upload GoQuest games to OGS for AI analysis
+
+Chauncey
+Node butler using ChatGPT to automatically generate release notes from a Git history.
+
+openaccessartbotjr
+Giphy for Open Access Art
+
+openaccessartbotpages
+Open Access Art Bot's homepage
+
+Dororin
+Dororin is a shapeshifting kaiju, and also a build tool to convert graphql queries to C# classes.
+
+Chroma
+Screen tint controller for macOS.
+
+sonar
+Sonar is a method of echolocation used in air or water, as well as an Objective C tvOS app to bring Bandcamp to the AppleTV.
+
+andrewallred.com
+All about me
+
+flaceur
+Node command line app to convert folders of audio files to flac.
+
+slicer
+Node app to chop up videos for later tweeting, friend of mille-feuille
+
+mille-feuille
+Twitter bot that tweets sliced movies as stills or clips over la longue durée.
+
+FongPhone
+Touchscreen app bringing the power of analog synthesis to your phone.
+
