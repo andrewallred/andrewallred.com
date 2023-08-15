@@ -36,6 +36,12 @@ Node app to chop up videos for later tweeting, friend of mille-feuille
 mille-feuille
 Twitter bot that tweets sliced movies as stills or clips over la longue durée.
 
+
+
+Collaborations
+
 FongPhone
 Touchscreen app bringing the power of analog synthesis to your phone.
 
+GreenerGreens
+Microgreens enterprise using intelligent automation.
