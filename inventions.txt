@@ -45,3 +45,6 @@ Touchscreen app bringing the power of analog synthesis to your phone.
 
 GreenerGreens
 Microgreens enterprise using intelligent automation.
+
+Xrysos
+Project exploring the use of AI in Fintech.
